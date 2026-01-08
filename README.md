@@ -39,3 +39,8 @@ To analyze overall sales, revenue, profit, and quantity performance across diffe
 
 ## Outcome
 Enabled stakeholders to monitor sales performance, identify high-revenue and high-profit categories, and analyze trends over time for better strategic planning.
+
+## License
+This project is licensed under the MIT License.
+
+
